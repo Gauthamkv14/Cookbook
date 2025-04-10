@@ -5,7 +5,7 @@ To Do's:
 3.Login page
 4.Authentication using: Firebase Auth / OAuth / JWT (OTP/2-step verification)
 5.Should be an iteractive site 
-6.wishlist
+6.Wishlist
 7.Shopping site
 
 For first phase:
@@ -13,3 +13,6 @@ For first phase:
 2.Object
 3.Literature survey
 4.Flowchart
+
+Lets try to make a website whicb concentrates on improving health/particular diorders
+
