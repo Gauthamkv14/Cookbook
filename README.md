@@ -14,5 +14,5 @@ For first phase:
 3.Literature survey
 4.Flowchart
 
-Lets try to make a website whicb concentrates on improving health/particular diorders
+Lets try to make a website which concentrates on improving health/particular diorders
 
